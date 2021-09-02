@@ -1,7 +1,7 @@
-*This text will be italic*
-_This will also be italic_
+*อันนี้ตัวอักษรบาง*
+_อันนี้ก็บาง_
 
-**This text will be bold**
-__This will also be bold__
+**อันนี้ตัวอักษรหนา**
+__อันนี้ก็หนา__
 
-_You **can** combine them_
+_เรา **สามารถ** ผสมมันได้_
